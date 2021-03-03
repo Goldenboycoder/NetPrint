@@ -1,2 +1,2 @@
 # NetPrint
-Printer server that is responsible for handling the printing requests coming from different users.
+Printer server that is responsible for handling the printing requests coming from different users(university project)
